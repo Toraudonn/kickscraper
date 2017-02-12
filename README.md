@@ -27,7 +27,7 @@ crawler
 ├── projects (directory to save projects for reference)
 ├── rates (directory to save exchange rates for reference)
 ├── client_secret.json
-├── crawler.py something.csv (to save spreadsheetId)
+├── crawler.py 
 └── something.csv (to save spreadsheetId)
 ```
 
