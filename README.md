@@ -1,6 +1,7 @@
 # Kickscraper
 
-Kickstarter webscraper implimented on python2 with BeautifulSoup. The data scraped would be parsed to Google Sheets via googledrive API.
+Kickstarter webscraper implimented on python2 with BeautifulSoup to scrape [Kickstarter](https://www.kickstarter.com/).  
+The data scraped would be parsed to Google Sheets via googledrive API.
 
 ## Installation
 
